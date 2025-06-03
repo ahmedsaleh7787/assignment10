@@ -1,0 +1,56 @@
+
+
+/* sm —  ≥ 576px */
+@media (min-width: 576px) {
+  
+.sm-lightBox{
+  width: 70% !important;
+
+}
+    
+}
+
+/* md —  ≥ 768px */
+@media (min-width: 768px) {
+    .w-m-20 {
+    width: 20% !important;
+
+  }
+
+
+  .sm-lightBox{
+  width: 70% !important;
+
+}
+
+
+}
+
+/* lg —  ≥ 992px */
+@media (min-width: 992px) {
+   .w-l-15 {
+    width: 15% !important;
+
+  }
+
+  
+  .sm-lightBox{
+  width: 55% !important;
+
+}
+
+}
+
+/* xl —  ≥ 1200px */
+@media (min-width: 1200px) {
+    .sm-lightBox{
+  width: 40% !important;
+
+}
+}
+
+/* xxl — ≥ 1400px */
+@media (min-width: 1400px) {
+
+}
+
